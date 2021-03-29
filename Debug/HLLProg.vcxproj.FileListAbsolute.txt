@@ -1,0 +1,2 @@
+C:\Users\R3SH\source\repos\HLLProg\Debug\HLLProg.exe
+C:\Users\R3SH\source\repos\HLLProg\Debug\HLLProg.pdb
